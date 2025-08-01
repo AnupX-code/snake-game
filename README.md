@@ -2,7 +2,7 @@
 Welcome to the Snake Game — a fun, fast-paced game made using Flutter!
 Created with ❤ by Anup Raj Thapaliya
 
-📱 Features
+# 📱 Features
 🟢 Smooth Snake Movement
 
 🍎 Random Food Generation
@@ -15,7 +15,7 @@ Created with ❤ by Anup Raj Thapaliya
 
 🏆 High Score Tracking
 
-🧑‍💻 Controls
+# 🧑‍💻 Controls
 Keyboard:
 
 W or Arrow Up: Move Up
@@ -30,13 +30,13 @@ Mobile Gestures:
 
 Swipe Up/Down/Left/Right to control snake
 
-🔧 Tech Stack
+#🔧 Tech Stack
 Flutter (UI & Logic)
 
 Dart (Backend Code)
 
 CustomPainter (Rendering Snake & Food)
 
-📄 License
+# 📄 License
 MIT License
 © 2025 Anup Raj Thapaliya
