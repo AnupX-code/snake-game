@@ -30,7 +30,7 @@ Mobile Gestures:
 
 Swipe Up/Down/Left/Right to control snake
 
-#🔧 Tech Stack
+# 🔧 Tech Stack
 Flutter (UI & Logic)
 
 Dart (Backend Code)
