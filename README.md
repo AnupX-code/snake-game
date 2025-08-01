@@ -39,4 +39,4 @@ CustomPainter (Rendering Snake & Food)
 
 # 📄 License
 MIT License
-© 2025 Anup Raj Thapaliya
+© 2025 **__Anup Raj Thapaliya__*
